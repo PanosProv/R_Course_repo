@@ -1,6 +1,6 @@
 ##Secondary heading
 *first
-*seconf
+*second
 ###Tertiary heading
 *first
 *second
